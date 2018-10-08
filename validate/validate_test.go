@@ -3,7 +3,7 @@ package validate
 import (
 	"testing"
 
-	"github.com/ihahoo/go-api-lib/errors"
+	"github.com/ChiQianBingYue/go-api-lib/errors"
 	"github.com/stretchr/testify/assert"
 )
 

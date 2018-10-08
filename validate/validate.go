@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"strconv"
 
+	"github.com/ChiQianBingYue/go-api-lib/errors"
 	valid "github.com/asaskevich/govalidator"
-	"github.com/ihahoo/go-api-lib/errors"
 )
 
 // IsEmpty 检查值是否是空

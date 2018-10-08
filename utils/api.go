@@ -3,8 +3,8 @@ package utils
 import (
 	"time"
 
+	"github.com/ChiQianBingYue/go-api-lib/errors"
 	"github.com/gin-gonic/gin"
-	"github.com/ihahoo/go-api-lib/errors"
 )
 
 // ResTime 返回UTC时间，用ISO8601格式化。YYYY-MM-DDTHH:MM:SSZ

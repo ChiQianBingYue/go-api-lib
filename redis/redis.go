@@ -3,8 +3,8 @@ package redis
 import (
 	"github.com/go-redis/redis"
 
-	"github.com/ihahoo/go-api-lib/config"
-	"github.com/ihahoo/go-api-lib/log"
+	"github.com/ChiQianBingYue/go-api-lib/config"
+	"github.com/ChiQianBingYue/go-api-lib/log"
 )
 
 var dbs map[int]*redis.Client

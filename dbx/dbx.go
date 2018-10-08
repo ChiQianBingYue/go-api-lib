@@ -1,8 +1,8 @@
 package db
 
 import (
-	"github.com/ihahoo/go-api-lib/config"
-	"github.com/ihahoo/go-api-lib/log"
+	"github.com/ChiQianBingYue/go-api-lib/config"
+	"github.com/ChiQianBingYue/go-api-lib/log"
 	"github.com/jmoiron/sqlx"
 	_ "github.com/lib/pq"
 )
